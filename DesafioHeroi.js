@@ -10,7 +10,7 @@ console.log ("Neste repositório, insira todos os links e arquivos necessários 
 console.log ("Dica: Se o expert forneceu um repositório Github, você pode dar um fork no repositório dele para organizar suas alterações e evoluções mantendo uma referência direta ao código-fonte original.")
  
 console.log ("Instruções para entrega")
-console.log ("# 1️⃣ Desafio Classificador de nível de Herói")
+console.log ("Desafio Classificador de nível de Herói")
 
 console.log ("**O Que deve ser utilizado**")
 
