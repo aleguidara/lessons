@@ -1,8 +1,8 @@
 const herois = [
-    { nome: "Uncle Remus", xp: 5000 },
+    { nome: "Uncle Remus", xp: 50000 },
     { nome: "Suzy Creamcheese", xp: 2500 },
-    { nome: "Nanook Nanot", xp: 1000 },
-    { nome: "Charleena", xp: 3600 },
+    { nome: "Nanook Nanot", xp: 7000 },
+    { nome: "Charleena", xp: 8600 },
   ];
   
   for (const heroi of herois) {
